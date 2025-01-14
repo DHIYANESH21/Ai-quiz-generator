@@ -1,0 +1,1 @@
+export const AI_PROMPT="give me {qns} mcq's {lel} level questions with 4 options as a,b,c,d each and right answer below each question on the topic {topic} which belongs to the category {category} in JSON format and dont make all 'a' option as the right answer for all the question set answer on all options for differenet questions  "
